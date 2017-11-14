@@ -1230,7 +1230,7 @@ g.axis.color-index-3 text {
 html,
 body {
   min-width: 200px;
-  color: #666;
+  color: #333;
   max-width: 100%;
   overflow-x: none;
 }
@@ -1239,7 +1239,7 @@ h2,
 h4,
 h5 {
   font-family: "Khula-Bold", Arial, sans-serif;
-  color: #666;
+  color: #333;
 }
 h1 {
   line-height: 50px;
@@ -1464,11 +1464,11 @@ svg .svg-background {
   font-style: italic;
 }
 .svg-text.svg-text-credit {
-  fill: #ccc;
+  fill: #888;
   text-anchor: start;
 }
 .svg-text.svg-text-source {
-  fill: #ccc;
+  fill: #888;
 }
 .svg-text.svg-text-source.left {
   text-anchor: start;
@@ -1477,7 +1477,7 @@ svg .svg-background {
   text-anchor: end;
 }
 .svg-text.svg-text-title {
-  fill: #666;
+  fill: #333;
 }
 .medium .svg-text {
   font-size: 20px;
@@ -1531,7 +1531,7 @@ svg .svg-background {
   stroke-width: 2px;
 }
 .axis text.tick {
-  fill: #666;
+  fill: #333;
   shape-rendering: crispEdges;
 }
 .axis text.tick[data-anchor="middle"] text {
@@ -1556,7 +1556,7 @@ svg .svg-background {
   shape-rendering: crispEdges;
 }
 .concealer-label text {
-  fill: #666;
+  fill: #333;
 }
 .concealer-label rect {
   fill: #fff;
@@ -1571,7 +1571,7 @@ svg .svg-background {
   font-size: 14px;
 }
 .svg-source-pipe {
-  stroke: #ccc;
+  stroke: #888;
   fill: none;
   stroke-width: 0.8px;
 }
@@ -1581,7 +1581,7 @@ svg .svg-background {
   stroke: #000;
 }
 .cb-credit-logo {
-  fill: #ccc;
+  fill: #888;
 }
 .chartbuilder-editor {
   margin-left: 680px;
